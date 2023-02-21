@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-sharp-hw2", "C-sharp-hw2\C-sharp-hw2.csproj", "{8A400790-366B-446A-8D33-7FC12F646154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odd even seperation", "odd even seperation\odd even seperation.csproj", "{FDB1D36F-B592-406D-973F-B876BF741ABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A400790-366B-446A-8D33-7FC12F646154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A400790-366B-446A-8D33-7FC12F646154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A400790-366B-446A-8D33-7FC12F646154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A400790-366B-446A-8D33-7FC12F646154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDB1D36F-B592-406D-973F-B876BF741ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB1D36F-B592-406D-973F-B876BF741ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB1D36F-B592-406D-973F-B876BF741ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB1D36F-B592-406D-973F-B876BF741ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13E647E5-1B86-4EF3-A980-73529F452B57}
+	EndGlobalSection
+EndGlobal
